@@ -30,6 +30,7 @@ Neon Hesap Makinesi - Özellikler
 Kurulum 
 
 Uygulama çalışması için gereken bağımlılık kurulumu : sudo apt install python3-pyqt5 
+
 neon-paket.deb  paketini çift tıklayıp  kurulum yapılabilir . (Bunun için bilgisayarınızda paket kurucu olması lazım)
 
 -------------------------------------------------------------------------------------------

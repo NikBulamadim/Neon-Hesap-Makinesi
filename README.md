@@ -3,7 +3,7 @@
 
 ![resim1](1.png)
 ![resim2](2.png)
-
+![resim3](3.png)
 
 
 

@@ -9,6 +9,8 @@
 
 Neon Hesap Makinesi - Özellikler
 
+* T harfi ile tuş renklerini değiştirebilirsiniz 
+
 * Modern Neon Arayüz: Siyah arka plan üzerine canlı neon renklerle tasarlanmış, şık ve göz yormayan karanlık mod tasarımı.
 
 * Gelişmiş Hassasiyet: Python decimal kütüphanesi kullanılarak 1000 basamağa kadar yüksek hassasiyetli matematiksel hesaplama.
